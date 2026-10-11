@@ -136,8 +136,8 @@ Possuo uma jornada ativa de capacitação prática na **DIO (Digital Innovation 
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ematsant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ematsant&layout=compact&theme=tokyonight" alt="Top Linguagens" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ematsant&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ematsant&layout=compact&theme=tokyonight" alt="Top Linguagens" />
 
 </div>
 
