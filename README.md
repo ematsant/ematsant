@@ -4,7 +4,7 @@
 
   <!-- Header Banner / Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+de+Software+em+Forma%C3%A7%C3%A3o;Focado+em+Desenvolvimento+Web+e+Solu%C3%A7%C3%B5es+Eficientes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+de+Software+em+Forma%C3%A7%C3%A3o;Focado+em+Desenvolvimento+Web+e+Solu%C3%A7%C3%B5es+Eficientes" alt="Typing SVG" />
   </a>
 
   <br/><br/>
